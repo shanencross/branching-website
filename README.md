@@ -1,8 +1,8 @@
 # Branching Website
 
-### By Shanen Cross
+#### By Shanen Cross
 
-### Gives introductory explanation of branching.
+#### Gives introductory explanation of branching.
 
 ## Technologies Used
 
