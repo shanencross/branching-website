@@ -27,7 +27,3 @@ None.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) 2021 Shanen Cross
-
-## Contact Information
-
-Shanen Cross <shanencross@gmail.com>
